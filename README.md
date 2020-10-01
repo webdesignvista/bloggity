@@ -1,5 +1,5 @@
 # bloggity
-/*** SPALY = Bootstrap Blogging Theme ******/
+/*** Bloggity = Bootstrap Blogging Theme ******/
 
 Copyrights: https://webdesignvista.com/
 
